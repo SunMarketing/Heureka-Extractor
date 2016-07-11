@@ -1,4 +1,4 @@
-# hereuka-extractor
+# Heureka extractor for Keboola
 KBC Docker app for extracting data from Heureka (http://heureka.cz)
 
 The Extractor gets list of campaign stats for previous day and saves the data to Storage API. Date of downloaded stats can be changed in configuration.
