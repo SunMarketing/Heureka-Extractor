@@ -45,7 +45,7 @@ Data are saved into table **incrementally**:
 > **NOTICE!**
 
 > - Data can change for last 30 days
-
+> - Heureka offers data only for last 2 years
 
 ## Installation
 
